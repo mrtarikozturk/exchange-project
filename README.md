@@ -2,7 +2,6 @@
 
 - Website - [Exchange App](https://mrtarikozturk.github.io/exchange-project/)
 
-<!-- ![Project Image](project-image-url) -->
 
 <!--  This is a ReadMe template to help save you time and effort. -->
 
