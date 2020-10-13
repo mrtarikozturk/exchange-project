@@ -1,7 +1,6 @@
 # Exchange App
 
-- Website - [Exchange App](https://mrtarikozturk.github.io/exchange-project/)
-
+- Website - [Exchange App]()
 
 <!--  This is a ReadMe template to help save you time and effort. -->
 
